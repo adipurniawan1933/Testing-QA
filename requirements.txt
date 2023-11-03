@@ -1,0 +1,13 @@
+# requirements.txt for Calculator App
+
+# Dependensi dasar untuk GUI dan tata letak
+tkinter==8.6
+
+# Untuk pengelolaan array dan operasi matematika
+numpy==1.21.2
+
+# Modul untuk menangani perhitungan ilmiah
+scipy==1.7.1
+
+# Pustaka untuk pengujian atau testing
+pytest==6.2.5
